@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+.input{
+    font-size: 22px;
+    border: 1px solid lightgray;
+    width: 25%;
+}

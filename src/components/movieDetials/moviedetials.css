@@ -1,0 +1,16 @@
+.movie-detials-main{
+    display: flex;
+    margin: 88px 175px;
+}
+
+.movie-detials-right{
+    margin: 0 44px;
+}
+.movie-detials{
+    display: flex;
+    align-items: center;
+}
+
+.movie-detials-right h2{
+    margin-right: 10px;
+}
